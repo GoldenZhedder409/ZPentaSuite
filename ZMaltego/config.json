@@ -1,0 +1,10 @@
+{
+  "maltego": {
+    "shodan": "YOUR_SHODAN_API_KEY",
+    "virustotal": "YOUR_VT_API_KEY",
+    "hunter": "YOUR_HUNTER_API_KEY",
+    "builtwith": "YOUR_BUILTWITH_API_KEY",
+    "censys_id": "YOUR_CENSYS_ID",
+    "censys_secret": "YOUR_CENSYS_SECRET"
+  }
+}
