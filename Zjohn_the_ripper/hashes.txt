@@ -1,0 +1,29 @@
+# ========== BASIC PASSWORDS ==========
+5f4dcc3b5aa765d61d8327deb882cf99        # password
+e10adc3949ba59abbe56e057f20f883e        # 123456
+25d55ad283aa400af464c76d713c07ad        # 12345678
+827ccb0eea8a706c4c34a16891f84e7b        # 12345
+e807f1fcf82d132f9bb018ca6738a19f        # password123
+
+# ========== ADMIN ==========
+21232f297a57a5a743894a0e4a801fc3        # admin
+6c7ca345f63f835cb5259f7c0276421a        # admin123
+f6fdffe48c908deb0f4c3bd36c032e72        # admin1234
+bdc87b9c894da5168059e00ebffb9077        # administrator
+
+# ========== ROOT/USER ==========
+8c6976e5b5410415bde908bd4dee15df        # root
+b4b8daaf607dcdceb09eb7b97f4f24b9        # root123
+4a7d1ed414474e4033ac29ccb8653d9b        # user
+7c222fb2927d828af22f592134e89324        # user123
+
+# ========== COMMON ==========
+0d107d09f5bbe40cade3de5c71e9e9b7        # letmein
+5d41402abc4b2a76b9719d911017c592        # hello
+098f6bcd4621d373cade4e832627b4f6        # test
+25f9e794323b453885f5181f1b624d0b        # abc123
+7c6a61b68d3f2f6d8c5c3d4e5f6g7h8i        # qwerty
+
+# ========== MIXED ==========
+d41d8cd98f00b204e9800998ecf8427e        # (empty string)
+202cb962ac59075b964b07152d234b70        # 123
