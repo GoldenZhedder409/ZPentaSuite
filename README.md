@@ -3,6 +3,13 @@ All the red teaming wrapper tools are here, starting from JTR, Hydra, Nmap, SQLm
 
 ---
 
+<p align="center">
+<img src="https://img.shields.io/badge/Version-Extreme_Edition-red?style=for-the-badge" alt="Version">
+<img src="https://img.shields.io/badge/Language-Golang-blue?style=for-the-badge" alt="Golang">
+<img src="https://img.shields.io/badge/Purpose-Hacking-green?style=for-the-badge" alt="Purpose">
+<img src="https://img.shields.io/badge/License-Red_Teaming-yellow?style=for-the-badge" alt="License">
+</p>
+
 ### ZPentaSuite - Advanced Penetration Testing Toolkit 🚀
 
 What is ZPentaSuite?
